@@ -79,16 +79,16 @@ class ShivamThakur:
 
 <div align="center">
 
-<!-- Using ghchart.rshah.org as fallback (reliable alternative) -->
-[![insta-ai-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=insta-ai-chatbot&theme=github_dark&bg_color=0d1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&cache_seconds=1800)](https://github.com/Shiva07IN/insta-ai-chatbot)
+<!-- Project Cards via gh-readme-stats mirror -->
+[![insta-ai-chatbot](https://gh-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=insta-ai-chatbot&theme=github_dark&bg_color=0d1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/Shiva07IN/insta-ai-chatbot)
 &nbsp;&nbsp;
-[![AI-Application-writer-Telegram-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=AI-Application-writer-Telegram-Bot&theme=github_dark&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=1800)](https://github.com/Shiva07IN/AI-Application-writer-Telegram-Bot)
+[![AI-Application-writer-Telegram-Bot](https://gh-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=AI-Application-writer-Telegram-Bot&theme=github_dark&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9)](https://github.com/Shiva07IN/AI-Application-writer-Telegram-Bot)
 
 <br/>
 
-[![Ai-affidavit-writer](https://github-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=Ai-affidavit-writer&theme=github_dark&bg_color=0d1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&cache_seconds=1800)](https://github.com/Shiva07IN/Ai-affidavit-writer)
+[![Ai-affidavit-writer](https://gh-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=Ai-affidavit-writer&theme=github_dark&bg_color=0d1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/Shiva07IN/Ai-affidavit-writer)
 &nbsp;&nbsp;
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=portfolio&theme=github_dark&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=1800)](https://github.com/Shiva07IN/portfolio)
+[![portfolio](https://gh-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=portfolio&theme=github_dark&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9)](https://github.com/Shiva07IN/portfolio)
 
 </div>
 
@@ -139,10 +139,10 @@ class ShivamThakur:
 
 <div align="center">
 
-<!-- Using cache_seconds to improve reliability -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shiva07IN&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true&cache_seconds=1800"/>
+<!-- Stats via gh-readme-stats mirror -->
+<img height="170" src="https://gh-readme-stats.vercel.app/api?username=Shiva07IN&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva07IN&layout=compact&theme=github_dark&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/>
+<img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Shiva07IN&layout=compact&theme=github_dark&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
