@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I’m a high school graduate exploring the world of AI and its potential uses. I’m really interested in RTL Design & Debug, Computer Architecture, and learning how things work ⚡.<br><br>This is my GitHub, so please don’t judge my skills only by the projects here 😅. Right now, I’m also preparing for my college entrance exams so I can reach my goal of learning tech and its full potential 🎯.<br><br>I’d really love it if you could help me out in any way — whether it’s guidance, feedback, or collaboration 🤝. 
+Hi 👋, I’m a high school graduate and indian mathematics olympiad qualified exploring the world of AI and its potential uses. I’m really interested and learning RTL Design & Debug, Computer Architecture, and learning how quantam physics in cpu and gpu work ⚡.<br><br>This is my GitHub, so please don’t judge my skills only by the projects here 😅. Right now, I’m also preparing for my college entrance exams so I can reach my goal of learning tech and its full potential 🎯.<br><br>I’d really love it if you could help me out in any way — whether it’s guidance, feedback, or collaboration 🤝. 
 
 ## 🎯 Continuing Learning 
 **Scripting:** Python, Perl, Tcl, Shell
