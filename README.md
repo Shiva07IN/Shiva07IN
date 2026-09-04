@@ -41,12 +41,6 @@ class ShivamThakur:
         "AI SaaS & Tool Building",
     ]
 
-    stack = [
-        "Python", "JavaScript",
-        "OpenAI GPT-4o", "Claude 3.5",
-        "Gemini 1.5", "LangChain",
-    ]
-
     fun_fact = "I automate everything I can with AI 🤖"
 
     def say_hi(self):
@@ -56,7 +50,7 @@ class ShivamThakur:
 - 🎓 **18-year-old** self-taught AI developer from India
 - 🏆 **Indian Mathematics Olympiad** qualifier
 - 🤖 Obsessed with **AI-powered automation & agent systems**
-- ⚡ Currently deep-diving into **RAG, AI Agents & multi-model pipelines**
+- ⚡ Currently deep-diving into **AI Agents & multi-model pipelines**
 - 📬 Connect: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shivaam.thakurr/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Shivamthakur-07in)
 
 <br clear="right"/>
@@ -105,14 +99,6 @@ class ShivamThakur:
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-### 💻 Languages & Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### 📦 Automation & Data
