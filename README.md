@@ -115,24 +115,6 @@ class ShivamThakur:
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiva07IN&bg_color=0d1117&color=00D4FF&line=7C3AED&point=00D4FF&area=true&area_color=7C3AED20&border_color=00D4FF" width="95%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiva07IN&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%"/>
-</div>
-
----
-
 ## 🎯 Current AI Focus
 
 <div align="center">
