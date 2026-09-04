@@ -69,24 +69,6 @@ class ShivamThakur:
 
 ---
 
-## 🔥 Featured AI Projects
-
-<div align="center">
-
-<!-- Project Cards via gh-readme-stats mirror -->
-[![insta-ai-chatbot](https://gh-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=insta-ai-chatbot&theme=github_dark&bg_color=0d1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/Shiva07IN/insta-ai-chatbot)
-&nbsp;&nbsp;
-[![AI-Application-writer-Telegram-Bot](https://gh-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=AI-Application-writer-Telegram-Bot&theme=github_dark&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9)](https://github.com/Shiva07IN/AI-Application-writer-Telegram-Bot)
-
-<br/>
-
-[![Ai-affidavit-writer](https://gh-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=Ai-affidavit-writer&theme=github_dark&bg_color=0d1117&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9)](https://github.com/Shiva07IN/Ai-affidavit-writer)
-&nbsp;&nbsp;
-[![portfolio](https://gh-readme-stats.vercel.app/api/pin/?username=Shiva07IN&repo=portfolio&theme=github_dark&bg_color=0d1117&border_color=7C3AED&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9)](https://github.com/Shiva07IN/portfolio)
-
-</div>
-
----
 ### 🛠️ Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
