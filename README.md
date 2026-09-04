@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== ANIMATED HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Thakur&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=34&desc=AI%20Builder%20%7C%20Automation%20Architect%20%7C%2018%20y%2Fo%20Developer&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Thakur&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=34&desc=AI%20Builder%20%7C%20Automation%20Architect%20%7C%2018%20y%2Fo%20&descAlignY=52&descAlign=50" width="100%"/>
 
 <!-- ===== TYPING ANIMATION (emoji-safe URL) ===== -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Building+AI+Systems+that+Think+%F0%9F%A4%96;Automating+Everything+with+AI+%E2%9A%A1;AI+APIs+%7C+Agents+%7C+Automation+%F0%9F%A7%A0;Turning+Ideas+into+Intelligent+Apps+%F0%9F%9A%80;Python+%7C+OpenAI+%7C+Claude+%7C+Gemini+%F0%9F%94%A5" alt="Typing SVG" />
